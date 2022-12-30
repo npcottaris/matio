@@ -1,0 +1,6 @@
+module CmatlabIO {
+    header "/Users/nicolas/Documents/1_developer/3_C/0_3rdParty/matlabIO/src/matlabIO-Bridging-Header.h"
+    link "matio"
+    export *
+}
+
